@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfbf737d-2214-4db9-b76a-1fc385348256" name="Changes" comment="added new files">
-      <change afterPath="$PROJECT_DIR$/Queries/create_table.sql" afterDir="false" />
+    <list default="true" id="bfbf737d-2214-4db9-b76a-1fc385348256" name="Changes" comment="added new filess">
+      <change afterPath="$PROJECT_DIR$/Queries/alter_table.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/3b4f2a3d-da27-48d4-a149-e63c7728428d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3b4f2a3d-da27-48d4-a149-e63c7728428d.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queries/string_man_views.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Queries/string_man_views.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <workItem from="1666530186866" duration="2005000" />
       <workItem from="1666554647059" duration="41000" />
       <workItem from="1666593052858" duration="2864000" />
-      <workItem from="1666611182124" duration="1234000" />
+      <workItem from="1666611182124" duration="4788000" />
     </task>
     <task id="LOCAL-00001" summary="added new files">
       <created>1666594316522</created>
@@ -87,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666597847509</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added new filess">
+      <created>1666612700526</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666612700526</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new files" />
+    <MESSAGE value="added new filess" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new filess" />
   </component>
 </project>
