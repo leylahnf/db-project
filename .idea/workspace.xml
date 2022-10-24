@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfbf737d-2214-4db9-b76a-1fc385348256" name="Changes" comment="added new files">
-      <change afterPath="$PROJECT_DIR$/Queries/sub_interview.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queries/create_table.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/3b4f2a3d-da27-48d4-a149-e63c7728428d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3b4f2a3d-da27-48d4-a149-e63c7728428d.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3b4f2a3d-da27-48d4-a149-e63c7728428d/storage_v2/_src_/schema/HR.CgkAAA.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3b4f2a3d-da27-48d4-a149-e63c7728428d/storage_v2/_src_/schema/HR.CgkAAA.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queries/string_man_views.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Queries/string_man_views.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,20 +28,20 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/fatma/IdeaProjects/db-project/Queries/day1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/fatma/IdeaProjects/db-project/Queries/day1&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "oracle"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;oracle&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\fatma\IdeaProjects\db-project\Queries\day1" />
@@ -70,7 +70,8 @@
       <workItem from="1666521440877" duration="575000" />
       <workItem from="1666530186866" duration="2005000" />
       <workItem from="1666554647059" duration="41000" />
-      <workItem from="1666593052858" duration="2778000" />
+      <workItem from="1666593052858" duration="2864000" />
+      <workItem from="1666611182124" duration="1234000" />
     </task>
     <task id="LOCAL-00001" summary="added new files">
       <created>1666594316522</created>
@@ -79,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666594316523</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added new files">
+      <created>1666597847509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666597847509</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

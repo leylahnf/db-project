@@ -39,14 +39,13 @@ from employees;
 
 --VIEW
 CREATE VIEW Emaillist_jamal as select substr(first_name,0,1)||'.'||substr(last_name,0,1) as "initials",
- first_name||' '||last_name as "full_name",lower(email||'@gmail.com') as "full_email"
- from employees;
+                                      first_name||' '||last_name as "full_name",lower(email||'@gmail.com') as "full_email"
+                               from employees;
 
 select "full_name"
 from Emaillist_jamal;
 
 --to remove view
 drop view Emaillist_jamal;
-
 
 
